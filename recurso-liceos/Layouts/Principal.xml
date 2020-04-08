@@ -40,10 +40,10 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>428.000030518</x>
-                        <y>241.972625732</y>
+                        <y>239.260192871</y>
                         <z>0</z>
                         <width>856</width>
-                        <height>487.917694092</height>
+                        <height>482.507843018</height>
                         <depth>0</depth>
                         <hotspotX>0.500781238</hotspotX>
                         <hotspotY>0.501388907</hotspotY>
@@ -92,7 +92,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="acercade" uid="21">
+                <instance type="btnAcercade" uid="21">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -102,7 +102,7 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>84.786705017</x>
+                        <x>80.278846741</x>
                         <y>106.99508667</y>
                         <z>0</z>
                         <width>82.594963074</width>
@@ -242,6 +242,94 @@
                         <depth>0</depth>
                         <hotspotX>0.51219511</hotspotX>
                         <hotspotY>0.533333361</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="gifPersPrincipal" uid="23">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>735.683959961</x>
+                        <y>367.846130371</y>
+                        <z>0</z>
+                        <width>156.353942871</width>
+                        <height>157.810501099</height>
+                        <depth>0</depth>
+                        <hotspotX>0.504132211</hotspotX>
+                        <hotspotY>0.413533837</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="gifVentilador" uid="24">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>751.708862305</x>
+                        <y>191.698974609</y>
+                        <z>0</z>
+                        <width>77.389953613</width>
+                        <height>92.998092651</height>
+                        <depth>0</depth>
+                        <hotspotX>0.498039216</hotspotX>
+                        <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="btnCencuenta" uid="25">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>77.490036011</x>
+                        <y>205.222900391</y>
+                        <z>0</z>
+                        <width>82.595001221</width>
+                        <height>58.316001892</height>
+                        <depth>0</depth>
+                        <hotspotX>0.48780489</hotspotX>
+                        <hotspotY>0.517241359</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="btnCreditos" uid="26">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>77.489334106</x>
+                        <y>289.971038818</y>
+                        <z>0</z>
+                        <width>82.595001221</width>
+                        <height>58.316001892</height>
+                        <depth>0</depth>
+                        <hotspotX>0.495934963</hotspotX>
+                        <hotspotY>0.505747139</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -525,11 +613,11 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>748.62512207</x>
-                        <y>459.727935791</y>
+                        <x>410.986297607</x>
+                        <y>464.235412598</y>
                         <z>0</z>
-                        <width>203.636917114</width>
-                        <height>27.709716797</height>
+                        <width>193.716445923</width>
+                        <height>33.119567871</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>

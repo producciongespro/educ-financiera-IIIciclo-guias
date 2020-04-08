@@ -124,7 +124,7 @@
         <event-block sid="546051969019120">
             <conditions>
                 <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
-                    <param id="0" name="Object">acercade</param>
+                    <param id="0" name="Object">btnAcercade</param>
                 </condition>
             </conditions>
             <actions>
@@ -136,7 +136,7 @@
         <event-block sid="338889975900637">
             <conditions>
                 <condition id="7" name="Cursor is over object" sid="148561478302592" type="Mouse">
-                    <param id="0" name="Object">acercade</param>
+                    <param id="0" name="Object">btnAcercade</param>
                 </condition>
             </conditions>
             <actions>
@@ -148,11 +148,11 @@
         <event-block sid="699810000994250">
             <conditions>
                 <condition id="7" inverted="1" name="Cursor is over object" sid="485743584036034" type="Mouse">
-                    <param id="0" name="Object">acercade</param>
+                    <param id="0" name="Object">btnAcercade</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="4" name="Set animation" sid="566142724233101" type="acercade">
+                <action id="4" name="Set animation" sid="566142724233101" type="btnAcercade">
                     <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                     <param id="1" name="From">1</param>
                 </action>

@@ -45,10 +45,14 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/logoUned/" />
         <folder expanded="1" path="animation-folder/titulo/" />
         <folder expanded="1" path="animation-folder/armario/" />
+        <folder expanded="1" path="animation-folder/gifPersPrincipal/" />
+        <folder expanded="1" path="animation-folder/gifVentilador/" />
         <folder expanded="1" path="animation-folder/btncerrar/" />
         <folder expanded="1" path="animation-folder/GifGuiaDocente/" />
         <folder expanded="1" path="animation-folder/GifGuiaEstudiante/" />
-        <folder expanded="1" path="animation-folder/acercade/" />
+        <folder expanded="1" path="animation-folder/btnAcercade/" />
+        <folder expanded="1" path="animation-folder/btnCencuenta/" />
+        <folder expanded="1" path="animation-folder/btnCreditos/" />
         <folder expanded="1" path="animation-folder/banner_gespro2/" />
     </folders-expanded>
 </c2uistate>

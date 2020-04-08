@@ -215,6 +215,44 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="gifPersPrincipal" sid="600716282216806">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="394194692735184" speed="5">
+                        <frame duration="1" hotspotX="0.504132" hotspotY="0.413534" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Gif-taquillo-Pantalla Principal.gif">
+                            <collision-poly>
+                                <point x="0.136364" y="0.229323" />
+                                <point x="0.504132" y="0.0037594" />
+                                <point x="0.880165" y="0.221805" />
+                                <point x="0.995868" y="0.413534" />
+                                <point x="0.884298" y="0.609023" />
+                                <point x="0.504132" y="0.759399" />
+                                <point x="0.107438" y="0.62406" />
+                                <point x="0.0991736" y="0.413534" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="gifVentilador" sid="348158432829947">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="395756943590533" speed="5">
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Gif-Abanico.gif">
+                            <collision-poly>
+                                <point x="0.0313726" y="0.254658" />
+                                <point x="0.498039" y="0.00310559" />
+                                <point x="0.964706" y="0.254658" />
+                                <point x="0.980392" y="0.5" />
+                                <point x="0.862745" y="0.664596" />
+                                <point x="0.498039" y="0.996894" />
+                                <point x="0.133333" y="0.664596" />
+                                <point x="0.0196078" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
         </object-folder>
         <object-folder name="GUI">
             <object-type name="Touch" sid="981709812693078">
@@ -419,7 +457,7 @@
             <object-type name="Text4" sid="177395112312828">
                 <plugin id="Text" />
             </object-type>
-            <object-type name="acercade" sid="289385907822173">
+            <object-type name="btnAcercade" sid="289385907822173">
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="453131041565648" speed="5">
@@ -447,6 +485,39 @@
                                 <point x="0.541985" y="0.487903" />
                                 <point x="0.503817" y="0.447581" />
                                 <point x="0.519084" y="0.459677" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btnCencuenta" sid="319893766660894">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="387044745959191" speed="5">
+                        <frame duration="1" hotspotX="0.487805" hotspotY="0.517241" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Encuesta.png">
+                            <collision-poly>
+                                <point x="0.0243902" y="0.0344828" />
+                                <point x="0.943089" y="0.045977" />
+                                <point x="0.98374" y="0.505747" />
+                                <point x="0.926829" y="0.954023" />
+                                <point x="0.0325203" y="0.977012" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="btnCreditos" sid="729715369045319">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="857714348533429" speed="5">
+                        <frame duration="1" hotspotX="0.495935" hotspotY="0.505747" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Creditos.png">
+                            <collision-poly>
+                                <point x="0.0406504" y="0.0344828" />
+                                <point x="0.943089" y="0.045977" />
+                                <point x="0.98374" y="0.494253" />
+                                <point x="0.943089" y="0.954023" />
+                                <point x="0.0325203" y="0.977012" />
+                                <point x="0.0243902" y="0.494253" />
                             </collision-poly>
                         </frame>
                     </animation>
