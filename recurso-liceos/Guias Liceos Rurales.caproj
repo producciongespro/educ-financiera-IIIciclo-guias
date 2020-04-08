@@ -501,7 +501,7 @@
             <object-type name="btnCencuenta" sid="319893766660894">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="387044745959191" speed="5">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="387044745959191" speed="5">
                         <frame duration="1" hotspotX="0.487805" hotspotY="0.517241" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Encuesta.png">
                             <collision-poly>
                                 <point x="0.0243902" y="0.0344828" />
@@ -512,12 +512,23 @@
                             </collision-poly>
                         </frame>
                     </animation>
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="297277027869154" speed="5">
+                        <frame duration="1" hotspotX="0.479675" hotspotY="0.517241" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Creditos-Activo.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.97865" y="0" />
+                                <point x="1" y="0.506804" />
+                                <point x="0.960936" y="1" />
+                                <point x="0" y="1" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
                 </animation-folder>
             </object-type>
             <object-type name="btnCreditos" sid="729715369045319">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="857714348533429" speed="5">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="857714348533429" speed="5">
                         <frame duration="1" hotspotX="0.495935" hotspotY="0.505747" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Creditos.png">
                             <collision-poly>
                                 <point x="0.0406504" y="0.0344828" />
@@ -526,6 +537,18 @@
                                 <point x="0.943089" y="0.954023" />
                                 <point x="0.0325203" y="0.977012" />
                                 <point x="0.0243902" y="0.494253" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="514589132620197" speed="5">
+                        <frame duration="1" hotspotX="0.479675" hotspotY="0.517241" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Encuesta-Activo.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.97052" y="0" />
+                                <point x="1" y="0.50469" />
+                                <point x="0.97052" y="1" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.50469" />
                             </collision-poly>
                         </frame>
                     </animation>
