@@ -68,241 +68,6 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="logoUned" sid="321316176224913">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="526886002370590" speed="5">
-                        <frame duration="1" hotspotX="0.493506" hotspotY="0.493506" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-UNED.png">
-                            <collision-poly>
-                                <point x="0.182126" y="0.243424" />
-                                <point x="0.493074" y="0.370549" />
-                                <point x="0.808342" y="0.239255" />
-                                <point x="0.802295" y="0.493506" />
-                                <point x="0.493074" y="1" />
-                                <point x="0.189037" y="0.493506" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="logoPopular" sid="901340597509288">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="563359456291334" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-Popular.png">
-                            <collision-poly>
-                                <point x="0.166667" y="0.170732" />
-                                <point x="0.5" y="0.0487805" />
-                                <point x="0.809524" y="0.195122" />
-                                <point x="0.928571" y="0.5" />
-                                <point x="0.821429" y="0.817073" />
-                                <point x="0.5" y="0.963415" />
-                                <point x="0.166667" y="0.829268" />
-                                <point x="0.0357143" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="logoMep" sid="701077384512340">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="843470502124667" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-MEP.png">
-                            <collision-poly>
-                                <point x="0.178571" y="0.182927" />
-                                <point x="0.5" y="0.0487805" />
-                                <point x="0.821429" y="0.182927" />
-                                <point x="0.952381" y="0.5" />
-                                <point x="0.833333" y="0.829268" />
-                                <point x="0.5" y="0.963415" />
-                                <point x="0.178571" y="0.817073" />
-                                <point x="0.0595238" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="Personaje" sid="825567907315817">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="primero" pingpong="0" repeatcount="1" repeatto="0" sid="503402949619004" speed="5">
-                        <frame duration="1" hotspotX="0.462857" hotspotY="0.505791" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-1.png">
-                            <collision-poly>
-                                <point x="0.142857" y="0.0926641" />
-                                <point x="0.462857" y="0.019305" />
-                                <point x="0.64" y="0.189189" />
-                                <point x="0.462857" y="0.505791" />
-                                <point x="0.548571" y="0.760618" />
-                                <point x="0.462857" y="0.996139" />
-                                <point x="0.04" y="0.988417" />
-                                <point x="0.291429" y="0.505791" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="segundo" pingpong="0" repeatcount="1" repeatto="0" sid="183959033922344" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-2.png">
-                            <collision-poly>
-                                <point x="0.331683" y="0.220395" />
-                                <point x="0.5" y="0.0953947" />
-                                <point x="0.80198" y="0.131579" />
-                                <point x="0.767327" y="0.845395" />
-                                <point x="0.5" y="0.921053" />
-                                <point x="0.247525" y="0.835526" />
-                                <point x="0.0990099" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="tercero" pingpong="0" repeatcount="1" repeatto="0" sid="762841184088525" speed="5">
-                        <frame duration="1" hotspotX="0.502164" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-3.png">
-                            <collision-poly>
-                                <point x="0.160173" y="0.121711" />
-                                <point x="0.497835" y="0.0526316" />
-                                <point x="0.662338" y="0.256579" />
-                                <point x="0.744589" y="0.5" />
-                                <point x="0.5671" y="0.671053" />
-                                <point x="0.497835" y="0.914474" />
-                                <point x="0.290043" y="0.779605" />
-                                <point x="0.281385" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="cuarto" pingpong="0" repeatcount="1" repeatto="0" sid="305979288903949" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-4.png">
-                            <collision-poly>
-                                <point x="0.326733" y="0.217105" />
-                                <point x="0.5" y="0.0460526" />
-                                <point x="0.80198" y="0.131579" />
-                                <point x="0.762376" y="0.5" />
-                                <point x="0.70297" y="0.802632" />
-                                <point x="0.5" y="0.888158" />
-                                <point x="0.292079" y="0.805921" />
-                                <point x="0.188119" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="quinto" pingpong="0" repeatcount="1" repeatto="0" sid="679752035203297" speed="5">
-                        <frame duration="1" hotspotX="0.502439" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-5.png">
-                            <collision-poly>
-                                <point x="0.180488" y="0.121711" />
-                                <point x="0.497561" y="0.0526316" />
-                                <point x="0.609756" y="0.263158" />
-                                <point x="0.926829" y="0.5" />
-                                <point x="0.721951" y="0.8125" />
-                                <point x="0.497561" y="0.953947" />
-                                <point x="0.214634" y="0.855263" />
-                                <point x="0.0682927" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="sexto" pingpong="0" repeatcount="1" repeatto="0" sid="704473630625578" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\Personaje-6.png">
-                            <collision-poly>
-                                <point x="0.19802" y="0.131579" />
-                                <point x="0.5" y="0.0296053" />
-                                <point x="0.693069" y="0.203947" />
-                                <point x="0.777228" y="0.5" />
-                                <point x="0.772277" y="0.848684" />
-                                <point x="0.5" y="0.884868" />
-                                <point x="0.247525" y="0.835526" />
-                                <point x="0.262376" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="Sprite2" sid="789296352572278">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="grado1" pingpong="0" repeatcount="1" repeatto="0" sid="451791948352056" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\1ero.png">
-                            <collision-poly>
-                                <point x="0.177083" y="0.2125" />
-                                <point x="0.5" y="0.2375" />
-                                <point x="0.770833" y="0.275" />
-                                <point x="0.9375" y="0.5" />
-                                <point x="0.583333" y="0.5" />
-                                <point x="0.5" y="0.5375" />
-                                <point x="0.114583" y="0.8625" />
-                                <point x="0.177083" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="grado2" pingpong="0" repeatcount="1" repeatto="0" sid="136330355343483" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\2ndo.png">
-                            <collision-poly>
-                                <point x="0.166667" y="0.2" />
-                                <point x="0.822917" y="0.2125" />
-                                <point x="0.864583" y="0.5" />
-                                <point x="0.59375" y="0.5125" />
-                                <point x="0.135417" y="0.8375" />
-                                <point x="0.291667" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="grado3" pingpong="0" repeatcount="1" repeatto="0" sid="927123643607088" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\3ro.png">
-                            <collision-poly>
-                                <point x="0.177083" y="0.2125" />
-                                <point x="0.822917" y="0.2125" />
-                                <point x="0.4375" y="0.5" />
-                                <point x="0.572917" y="0.4875" />
-                                <point x="0.177083" y="0.7875" />
-                                <point x="0.239583" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="grado4" pingpong="0" repeatcount="1" repeatto="0" sid="203565553492902" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\4to.png">
-                            <collision-poly>
-                                <point x="0.270833" y="0.325" />
-                                <point x="0.5" y="0.5875" />
-                                <point x="0.822917" y="0.2125" />
-                                <point x="0.8125" y="0.5" />
-                                <point x="0.447917" y="0.3375" />
-                                <point x="0.5" y="0.675" />
-                                <point x="0.270833" y="0.675" />
-                                <point x="0.1875" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="grado5" pingpong="0" repeatcount="1" repeatto="0" sid="124835711969437" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\5to.png">
-                            <collision-poly>
-                                <point x="0.1875" y="0.225" />
-                                <point x="0.5" y="0.5875" />
-                                <point x="0.802083" y="0.2375" />
-                                <point x="0.854167" y="0.5" />
-                                <point x="0.604167" y="0.525" />
-                                <point x="0.5" y="0.6875" />
-                                <point x="0.177083" y="0.7875" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="grado6" pingpong="0" repeatcount="1" repeatto="0" sid="328511699686471" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Elementos_Recurso_Financiera_Primaria\6to.png">
-                            <collision-poly>
-                                <point x="0.208333" y="0.25" />
-                                <point x="0.5" y="0.2875" />
-                                <point x="0.833333" y="0.2" />
-                                <point x="0.5" y="0.5" />
-                                <point x="0.4375" y="0.325" />
-                                <point x="0.5" y="0.7" />
-                                <point x="0.208333" y="0.75" />
-                                <point x="0.166667" y="0.5" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="Sprite3" sid="904162745444605">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="365265206178344" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
-                    </animation>
-                </animation-folder>
-            </object-type>
             <object-type name="fondoAcerca" sid="225706256784856">
                 <plugin id="Sprite" />
                 <animation-folder>
@@ -318,23 +83,13 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="titulo" sid="614641914978667">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="520044497665536" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.513514" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Titulo.png">
-                            <collision-poly>
-                                <point x="0.0176768" y="0.0337838" />
-                                <point x="0.5" y="0.5" />
-                                <point x="0.808081" y="0.5" />
-                                <point x="0.997475" y="0.513514" />
-                                <point x="0.979798" y="0.986486" />
-                                <point x="0.020202" y="0.986486" />
-                                <point x="0.00252525" y="0.513514" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                </animation-folder>
+        </object-folder>
+        <object-folder name="Imagenes">
+            <object-type name="txtDrte" sid="229702312029954">
+                <plugin id="Text" />
+            </object-type>
+            <object-type name="txtDesarrollo" sid="579597662702350">
+                <plugin id="Text" />
             </object-type>
             <object-type name="titulodocente" sid="456098507608939">
                 <plugin id="Sprite" />
@@ -372,116 +127,297 @@
                     </animation>
                 </animation-folder>
             </object-type>
-        </object-folder>
-        <object-folder name="Imagenes">
-            <object-type name="Sprite" sid="407178232351289">
+            <object-type name="logoMep" sid="701077384512340">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="448576685372429" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529" original-source="D:\Users\phernandezc\Desktop\guia_estudiante.png">
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="843470502124667" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-MEP.png">
                             <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="estudiante2" pingpong="0" repeatcount="1" repeatto="0" sid="954827063355927" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="estudiante3" pingpong="0" repeatcount="1" repeatto="0" sid="607140546572877" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="estudiante4" pingpong="0" repeatcount="1" repeatto="0" sid="438486725719065" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="estudiante5" pingpong="0" repeatcount="1" repeatto="0" sid="402332837481228" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="estudiante6" pingpong="0" repeatcount="1" repeatto="0" sid="856798986309734" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="190538551515530" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
-                            </collision-poly>
-                        </frame>
-                    </animation>
-                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="545394371152261" speed="5">
-                        <frame duration="1" hotspotX="0.501818" hotspotY="0.501529">
-                            <collision-poly>
-                                <point x="0.24" y="0.0428134" />
-                                <point x="0.498182" y="0" />
-                                <point x="0.738182" y="0.0366972" />
-                                <point x="0.974545" y="0.229358" />
-                                <point x="1" y="0.366972" />
-                                <point x="0" y="0.366972" />
-                                <point x="0.0763636" y="0.165137" />
+                                <point x="0.178571" y="0.182927" />
+                                <point x="0.5" y="0.0487805" />
+                                <point x="0.821429" y="0.182927" />
+                                <point x="0.952381" y="0.5" />
+                                <point x="0.833333" y="0.829268" />
+                                <point x="0.5" y="0.963415" />
+                                <point x="0.178571" y="0.817073" />
+                                <point x="0.0595238" y="0.5" />
                             </collision-poly>
                         </frame>
                     </animation>
                 </animation-folder>
+            </object-type>
+            <object-type name="logoPopular" sid="901340597509288">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="563359456291334" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-Popular.png">
+                            <collision-poly>
+                                <point x="0.166667" y="0.170732" />
+                                <point x="0.5" y="0.0487805" />
+                                <point x="0.809524" y="0.195122" />
+                                <point x="0.928571" y="0.5" />
+                                <point x="0.821429" y="0.817073" />
+                                <point x="0.5" y="0.963415" />
+                                <point x="0.166667" y="0.829268" />
+                                <point x="0.0357143" y="0.5" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="logoUned" sid="321316176224913">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="526886002370590" speed="5">
+                        <frame duration="1" hotspotX="0.493506" hotspotY="0.493506" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-UNED.png">
+                            <collision-poly>
+                                <point x="0.182126" y="0.243424" />
+                                <point x="0.493074" y="0.370549" />
+                                <point x="0.808342" y="0.239255" />
+                                <point x="0.802295" y="0.493506" />
+                                <point x="0.493074" y="1" />
+                                <point x="0.189037" y="0.493506" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="titulo" sid="614641914978667">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="520044497665536" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.513514" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Titulo.png">
+                            <collision-poly>
+                                <point x="0.0176768" y="0.0337838" />
+                                <point x="0.5" y="0.5" />
+                                <point x="0.808081" y="0.5" />
+                                <point x="0.997475" y="0.513514" />
+                                <point x="0.979798" y="0.986486" />
+                                <point x="0.020202" y="0.986486" />
+                                <point x="0.00252525" y="0.513514" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="armario" sid="460597039429841">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="452676109389741" speed="5">
+                        <frame duration="1" hotspotX="0.485437" hotspotY="0.499133" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Armario.png">
+                            <collision-poly>
+                                <point x="0.0242718" y="0.0190641" />
+                                <point x="0.980583" y="0.00519931" />
+                                <point x="0.932039" y="0.974003" />
+                                <point x="0.0776699" y="0.958406" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
+        <object-folder name="GUI">
+            <object-type name="Touch" sid="981709812693078">
+                <plugin id="Touch" />
+            </object-type>
+            <object-type name="Browser" sid="928713251327987">
+                <plugin id="Browser" />
+            </object-type>
+            <object-type name="Mouse" sid="662401877186719">
+                <plugin id="Mouse" />
+            </object-type>
+            <object-type name="btncerrar" sid="497391827348818">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
+                        <frame duration="1" hotspotX="0.507143" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recurso-Primaria-Activado.png">
+                            <collision-poly>
+                                <point x="0.142857" y="0.155039" />
+                                <point x="0.5" y="0.0697674" />
+                                <point x="0.892857" y="0.116279" />
+                                <point x="0.964286" y="0.496124" />
+                                <point x="0.892857" y="0.883721" />
+                                <point x="0.5" y="0.899225" />
+                                <point x="0.164286" y="0.821705" />
+                                <point x="0.0571429" y="0.496124" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="517178069518614" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Boton-Cerrar.png">
+                            <collision-poly>
+                                <point x="0.142857" y="0.155039" />
+                                <point x="0.5" y="0.0697674" />
+                                <point x="0.892857" y="0.116279" />
+                                <point x="0.964286" y="0.496124" />
+                                <point x="0.892857" y="0.883721" />
+                                <point x="0.5" y="0.899225" />
+                                <point x="0.164286" y="0.821705" />
+                                <point x="0.0571429" y="0.496124" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="GifGuiaDocente" sid="731041619491209">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="direccion" sid="838242479283314" type="string" />
+                </instance-variables>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="1">
+                        <frame duration="1" hotspotX="0.552083" hotspotY="0.517241" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Setimo-Docente.png">
+                            <collision-poly>
+                                <point x="0" y="0.0258622" />
+                                <point x="0.552083" y="0" />
+                                <point x="1" y="0" />
+                                <point x="1" y="0.508621" />
+                                <point x="1" y="1" />
+                                <point x="0.552083" y="0.956896" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.508621" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="942920974224845" speed="1">
+                        <frame duration="1" hotspotX="0.510417" hotspotY="0.534483" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Octavo-Docente.png">
+                            <collision-poly>
+                                <point x="0" y="0.0217117" />
+                                <point x="0.511111" y="0" />
+                                <point x="1" y="0" />
+                                <point x="1" y="0.52235" />
+                                <point x="1" y="1" />
+                                <point x="0.511111" y="0.960408" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.52235" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="670035923621021" speed="1">
+                        <frame duration="1" hotspotX="0.489583" hotspotY="0.508621" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Noveno-Docente.png">
+                            <collision-poly>
+                                <point x="0" y="0.0469066" />
+                                <point x="0.488609" y="0" />
+                                <point x="1" y="0.020284" />
+                                <point x="1" y="0.499493" />
+                                <point x="1" y="1" />
+                                <point x="0.488609" y="0.969828" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.499493" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="492141221627081" speed="1">
+                        <frame duration="1" hotspotX="0.510417" hotspotY="0.543103" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Decimo-Docente.png">
+                            <collision-poly>
+                                <point x="0" y="0.0934697" />
+                                <point x="0.508928" y="0" />
+                                <point x="1" y="0.0364513" />
+                                <point x="1" y="0.530614" />
+                                <point x="1" y="1" />
+                                <point x="0.508928" y="0.977261" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.530614" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="570273377946986" speed="1">
+                        <frame duration="1" hotspotX="0.489583" hotspotY="0.525862" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Undecimo-Docente.png">
+                            <collision-poly>
+                                <point x="0" y="0.0560345" />
+                                <point x="0.487629" y="0" />
+                                <point x="1" y="0.018319" />
+                                <point x="1" y="0.51805" />
+                                <point x="1" y="1" />
+                                <point x="0.487629" y="0.961207" />
+                                <point x="0" y="1" />
+                                <point x="0" y="0.51805" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="GifGuiaEstudiante" sid="463606508145768">
+                <plugin id="Sprite" />
+                <instance-variables>
+                    <instance-variable name="direccion" sid="234382344024591" type="string" />
+                </instance-variables>
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="1">
+                        <frame duration="1" hotspotX="0.572917" hotspotY="0.448276" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Setimo-Alumno.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.569081" y="0" />
+                                <point x="1" y="0.101293" />
+                                <point x="1" y="1" />
+                                <point x="0.569081" y="1" />
+                                <point x="0" y="0.887932" />
+                                <point x="0" y="0.435345" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="estudiante2" pingpong="0" repeatcount="1" repeatto="0" sid="394903906693278" speed="1">
+                        <frame duration="1" hotspotX="0.520833" hotspotY="0.508621" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Octavo-Alumno.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.516997" y="0" />
+                                <point x="1" y="0.142203" />
+                                <point x="1" y="0.494659" />
+                                <point x="1" y="1" />
+                                <point x="0.516997" y="1" />
+                                <point x="0" y="0.92188" />
+                                <point x="0" y="0.494659" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="estudiante3" pingpong="0" repeatcount="1" repeatto="0" sid="573942146981158" speed="1">
+                        <frame duration="1" hotspotX="0.479167" hotspotY="0.465517" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Noveno-Alumno.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.481055" y="0" />
+                                <point x="1" y="0.0754315" />
+                                <point x="1" y="0.452587" />
+                                <point x="1" y="1" />
+                                <point x="0.481055" y="1" />
+                                <point x="0" y="0.862069" />
+                                <point x="0" y="0.452587" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="estudiante4" pingpong="0" repeatcount="1" repeatto="0" sid="514305636033284" speed="1">
+                        <frame duration="1" hotspotX="0.520833" hotspotY="0.525862" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Decimo-Alumno.png">
+                            <collision-poly>
+                                <point x="0" y="0.113335" />
+                                <point x="0.520833" y="0.113335" />
+                                <point x="1" y="0.270164" />
+                                <point x="1" y="0.522453" />
+                                <point x="1" y="0.842928" />
+                                <point x="0.520833" y="0.856565" />
+                                <point x="0.0341667" y="0.761104" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                    <animation framecount="1" loop="0" name="estudiante5" pingpong="0" repeatcount="1" repeatto="0" sid="758435432852843" speed="1">
+                        <frame duration="1" hotspotX="0.46875" hotspotY="0.456897" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Undecimo-Alumno.png">
+                            <collision-poly>
+                                <point x="0" y="0" />
+                                <point x="0.472586" y="0" />
+                                <point x="1" y="0.0344829" />
+                                <point x="1" y="0.443966" />
+                                <point x="1" y="1" />
+                                <point x="0.472586" y="1" />
+                                <point x="0" y="0.810345" />
+                                <point x="0" y="0.443966" />
+                            </collision-poly>
+                        </frame>
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="Text3" sid="747281311663172">
+                <plugin id="Text" />
+            </object-type>
+            <object-type name="Text4" sid="177395112312828">
+                <plugin id="Text" />
             </object-type>
             <object-type name="acercade" sid="289385907822173">
                 <plugin id="Sprite" />
@@ -516,33 +452,7 @@
                     </animation>
                 </animation-folder>
             </object-type>
-            <object-type name="txtDrte" sid="229702312029954">
-                <plugin id="Text" />
-            </object-type>
-            <object-type name="txtDesarrollo" sid="579597662702350">
-                <plugin id="Text" />
-            </object-type>
         </object-folder>
-        <object-folder name="GUI">
-            <object-type name="Text2" sid="761732574864624">
-                <plugin id="Text" />
-            </object-type>
-            <object-type name="Touch" sid="981709812693078">
-                <plugin id="Touch" />
-            </object-type>
-            <object-type name="Browser" sid="928713251327987">
-                <plugin id="Browser" />
-            </object-type>
-            <object-type name="Mouse" sid="662401877186719">
-                <plugin id="Mouse" />
-            </object-type>
-        </object-folder>
-        <object-type name="Text3" sid="747281311663172">
-            <plugin id="Text" />
-        </object-type>
-        <object-type name="Text4" sid="177395112312828">
-            <plugin id="Text" />
-        </object-type>
         <object-type name="banner_gespro2" sid="500025414128462">
             <plugin id="Sprite" />
             <animation-folder>
@@ -835,193 +745,6 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
-                </animation>
-            </animation-folder>
-        </object-type>
-        <object-type name="GifGuiaDocente" sid="731041619491209">
-            <plugin id="Sprite" />
-            <instance-variables>
-                <instance-variable name="direccion" sid="838242479283314" type="string" />
-            </instance-variables>
-            <animation-folder>
-                <animation framecount="1" loop="0" name="docente1" pingpong="0" repeatcount="1" repeatto="0" sid="986199873253850" speed="1">
-                    <frame duration="1" hotspotX="0.552083" hotspotY="0.517241" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Setimo-Docente.png">
-                        <collision-poly>
-                            <point x="0" y="0.0258622" />
-                            <point x="0.552083" y="0" />
-                            <point x="1" y="0" />
-                            <point x="1" y="0.508621" />
-                            <point x="1" y="1" />
-                            <point x="0.552083" y="0.956896" />
-                            <point x="0" y="1" />
-                            <point x="0" y="0.508621" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="docente2" pingpong="0" repeatcount="1" repeatto="0" sid="942920974224845" speed="1">
-                    <frame duration="1" hotspotX="0.510417" hotspotY="0.534483" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Octavo-Docente.png">
-                        <collision-poly>
-                            <point x="0" y="0.0217117" />
-                            <point x="0.511111" y="0" />
-                            <point x="1" y="0" />
-                            <point x="1" y="0.52235" />
-                            <point x="1" y="1" />
-                            <point x="0.511111" y="0.960408" />
-                            <point x="0" y="1" />
-                            <point x="0" y="0.52235" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="docente3" pingpong="0" repeatcount="1" repeatto="0" sid="670035923621021" speed="1">
-                    <frame duration="1" hotspotX="0.489583" hotspotY="0.508621" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Noveno-Docente.png">
-                        <collision-poly>
-                            <point x="0" y="0.0469066" />
-                            <point x="0.488609" y="0" />
-                            <point x="1" y="0.020284" />
-                            <point x="1" y="0.499493" />
-                            <point x="1" y="1" />
-                            <point x="0.488609" y="0.969828" />
-                            <point x="0" y="1" />
-                            <point x="0" y="0.499493" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="docente4" pingpong="0" repeatcount="1" repeatto="0" sid="492141221627081" speed="1">
-                    <frame duration="1" hotspotX="0.510417" hotspotY="0.543103" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Decimo-Docente.png">
-                        <collision-poly>
-                            <point x="0" y="0.0934697" />
-                            <point x="0.508928" y="0" />
-                            <point x="1" y="0.0364513" />
-                            <point x="1" y="0.530614" />
-                            <point x="1" y="1" />
-                            <point x="0.508928" y="0.977261" />
-                            <point x="0" y="1" />
-                            <point x="0" y="0.530614" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="docente5" pingpong="0" repeatcount="1" repeatto="0" sid="570273377946986" speed="1">
-                    <frame duration="1" hotspotX="0.489583" hotspotY="0.525862" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Undecimo-Docente.png">
-                        <collision-poly>
-                            <point x="0" y="0.0560345" />
-                            <point x="0.487629" y="0" />
-                            <point x="1" y="0.018319" />
-                            <point x="1" y="0.51805" />
-                            <point x="1" y="1" />
-                            <point x="0.487629" y="0.961207" />
-                            <point x="0" y="1" />
-                            <point x="0" y="0.51805" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-            </animation-folder>
-        </object-type>
-        <object-type name="GifGuiaEstudiante" sid="463606508145768">
-            <plugin id="Sprite" />
-            <instance-variables>
-                <instance-variable name="direccion" sid="234382344024591" type="string" />
-            </instance-variables>
-            <animation-folder>
-                <animation framecount="1" loop="0" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="1">
-                    <frame duration="1" hotspotX="0.572917" hotspotY="0.448276" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Setimo-Alumno.png">
-                        <collision-poly>
-                            <point x="0" y="0" />
-                            <point x="0.569081" y="0" />
-                            <point x="1" y="0.101293" />
-                            <point x="1" y="1" />
-                            <point x="0.569081" y="1" />
-                            <point x="0" y="0.887932" />
-                            <point x="0" y="0.435345" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="estudiante2" pingpong="0" repeatcount="1" repeatto="0" sid="394903906693278" speed="1">
-                    <frame duration="1" hotspotX="0.520833" hotspotY="0.508621" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Octavo-Alumno.png">
-                        <collision-poly>
-                            <point x="0" y="0" />
-                            <point x="0.516997" y="0" />
-                            <point x="1" y="0.142203" />
-                            <point x="1" y="0.494659" />
-                            <point x="1" y="1" />
-                            <point x="0.516997" y="1" />
-                            <point x="0" y="0.92188" />
-                            <point x="0" y="0.494659" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="estudiante3" pingpong="0" repeatcount="1" repeatto="0" sid="573942146981158" speed="1">
-                    <frame duration="1" hotspotX="0.479167" hotspotY="0.465517" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Noveno-Alumno.png">
-                        <collision-poly>
-                            <point x="0" y="0" />
-                            <point x="0.481055" y="0" />
-                            <point x="1" y="0.0754315" />
-                            <point x="1" y="0.452587" />
-                            <point x="1" y="1" />
-                            <point x="0.481055" y="1" />
-                            <point x="0" y="0.862069" />
-                            <point x="0" y="0.452587" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="estudiante4" pingpong="0" repeatcount="1" repeatto="0" sid="514305636033284" speed="1">
-                    <frame duration="1" hotspotX="0.520833" hotspotY="0.525862" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Decimo-Alumno.png">
-                        <collision-poly>
-                            <point x="0" y="0.113335" />
-                            <point x="0.520833" y="0.113335" />
-                            <point x="1" y="0.270164" />
-                            <point x="1" y="0.522453" />
-                            <point x="1" y="0.842928" />
-                            <point x="0.520833" y="0.856565" />
-                            <point x="0.0341667" y="0.761104" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="estudiante5" pingpong="0" repeatcount="1" repeatto="0" sid="758435432852843" speed="1">
-                    <frame duration="1" hotspotX="0.46875" hotspotY="0.456897" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Undecimo-Alumno.png">
-                        <collision-poly>
-                            <point x="0" y="0" />
-                            <point x="0.472586" y="0" />
-                            <point x="1" y="0.0344829" />
-                            <point x="1" y="0.443966" />
-                            <point x="1" y="1" />
-                            <point x="0.472586" y="1" />
-                            <point x="0" y="0.810345" />
-                            <point x="0" y="0.443966" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-            </animation-folder>
-        </object-type>
-        <object-type name="btncerrar" sid="497391827348818">
-            <plugin id="Sprite" />
-            <animation-folder>
-                <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
-                    <frame duration="1" hotspotX="0.507143" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recurso-Primaria-Activado.png">
-                        <collision-poly>
-                            <point x="0.142857" y="0.155039" />
-                            <point x="0.5" y="0.0697674" />
-                            <point x="0.892857" y="0.116279" />
-                            <point x="0.964286" y="0.496124" />
-                            <point x="0.892857" y="0.883721" />
-                            <point x="0.5" y="0.899225" />
-                            <point x="0.164286" y="0.821705" />
-                            <point x="0.0571429" y="0.496124" />
-                        </collision-poly>
-                    </frame>
-                </animation>
-                <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="517178069518614" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Boton-Cerrar.png">
-                        <collision-poly>
-                            <point x="0.142857" y="0.155039" />
-                            <point x="0.5" y="0.0697674" />
-                            <point x="0.892857" y="0.116279" />
-                            <point x="0.964286" y="0.496124" />
-                            <point x="0.892857" y="0.883721" />
-                            <point x="0.5" y="0.899225" />
-                            <point x="0.164286" y="0.821705" />
-                            <point x="0.0571429" y="0.496124" />
-                        </collision-poly>
-                    </frame>
                 </animation>
             </animation-folder>
         </object-type>
