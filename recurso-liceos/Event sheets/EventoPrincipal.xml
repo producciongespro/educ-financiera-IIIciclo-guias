@@ -69,6 +69,7 @@
             </sub-events>
         </event-group>
         <event-group description="" sid="764983936932210" title="Efectos" />
+        <comment>Cargar las guías de cada nivel </comment>
         <event-block sid="206897524522644">
             <conditions>
                 <condition id="7" name="Cursor is over object" sid="774564628241292" type="Mouse">
@@ -120,18 +121,6 @@
                     </actions>
                 </event-block>
             </sub-events>
-        </event-block>
-        <event-block sid="546051969019120">
-            <conditions>
-                <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
-                    <param id="0" name="Object">btnAcercade</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="-2" name="Go to layout" sid="869283308663833" type="System">
-                    <param id="0" name="Layout">Acercade</param>
-                </action>
-            </actions>
         </event-block>
         <event-block sid="338889975900637">
             <conditions>
@@ -203,6 +192,31 @@
             <actions>
                 <action id="-16" name="Set opacity" sid="344452376579425" type="GifGuiaEstudiante">
                     <param id="0" name="Opacity">100</param>
+                </action>
+            </actions>
+        </event-block>
+        <comment>Ira a las páginas</comment>
+        <event-block sid="546051969019120">
+            <conditions>
+                <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
+                    <param id="0" name="Object">btnAcercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="869283308663833" type="System">
+                    <param id="0" name="Layout">Acercade</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="153302828409606">
+            <conditions>
+                <condition id="3" name="On touched object" sid="828580067283986" type="Touch">
+                    <param id="0" name="Object">btnAcercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="239528541713878" type="System">
+                    <param id="0" name="Layout">Acercade</param>
                 </action>
             </actions>
         </event-block>

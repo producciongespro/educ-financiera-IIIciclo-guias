@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>EventoCreditos</name>
+    <events>
+        <event-block sid="728789929164292">
+            <conditions>
+                <condition id="3" name="On touched object" sid="874129648287810" type="Touch">
+                    <param id="0" name="Object">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-25" name="Go to layout (by name)" sid="129400080540768" type="System">
+                    <param id="0" name="Layout">&quot;Principal&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="355231447350256">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="917623887593172" type="Mouse">
+                    <param id="0" name="Object">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="433391597385669" type="btncerrar">
+                    <param id="0" name="Animation">&quot;presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="280201163272779" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="212718016915060">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="438435593830463" type="Mouse">
+                    <param id="0" name="Object">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="612105117295121" type="btncerrar">
+                    <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

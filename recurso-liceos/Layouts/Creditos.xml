@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2layout>
-    <name>Acercade</name>
-    <sid>696680910893431</sid>
+    <name>Creditos</name>
+    <sid>252453147718592</sid>
     <event-sheet>EventoAcercade</event-sheet>
     <size>
         <width>1708</width>
@@ -13,7 +13,7 @@
     </margins>
     <unbounded-scrolling>0</unbounded-scrolling>
     <layers>
-        <layer name="Layer 0" sid="715045374622050">
+        <layer name="Layer 0" sid="431913617560301">
             <initially-visible>1</initially-visible>
             <background-color>255,255,255</background-color>
             <transparent>0</transparent>
@@ -29,7 +29,7 @@
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
             <instances>
-                <instance type="fondoAcerca" uid="19">
+                <instance type="fondoCreditos" uid="50">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -39,11 +39,11 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>426</x>
-                        <y>237</y>
+                        <x>434</x>
+                        <y>243</y>
                         <z>0</z>
-                        <width>869.356262207</width>
-                        <height>489.355560303</height>
+                        <width>864</width>
+                        <height>484</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>0.5</hotspotY>
@@ -51,7 +51,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="btncerrar" uid="14">
+                <instance type="btncerrar" uid="28">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -73,7 +73,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="logoPopular" uid="15">
+                <instance type="logoPopular" uid="37">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -83,8 +83,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>747</x>
-                        <y>452</y>
+                        <x>107</x>
+                        <y>442</y>
                         <z>0</z>
                         <width>42.527999878</width>
                         <height>42.331001282</height>
@@ -95,7 +95,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="logoUned" uid="17">
+                <instance type="logoUned" uid="43">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -105,8 +105,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>800</x>
-                        <y>451</y>
+                        <x>160</x>
+                        <y>445</y>
                         <z>0</z>
                         <width>42.527999878</width>
                         <height>42.331001282</height>
@@ -117,7 +117,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="logoMep" uid="18">
+                <instance type="logoMep" uid="44">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -127,8 +127,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>695</x>
-                        <y>453</y>
+                        <x>59</x>
+                        <y>443</y>
                         <z>0</z>
                         <width>42.527984619</width>
                         <height>42.330612183</height>
@@ -139,7 +139,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="txtDesarrollo" uid="38">
+                <instance type="txtDesarrollo" uid="45">
                     <properties>
                         <text>Desarrolladores: Luis Chacón Campos, Patricia Hernández Conejo, Óscar Pérez Ramírez, Ana Teresa Araya </text>
                         <initial-visibility>Visible</initial-visibility>
@@ -166,7 +166,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="txtDesarrollo" uid="39">
+                <instance type="txtDesarrollo" uid="46">
                     <properties>
                         <text>Diseño Gráfico: Mariana Molina Rojas</text>
                         <initial-visibility>Visible</initial-visibility>
@@ -193,7 +193,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="txtDesarrollo" uid="40">
+                <instance type="txtDesarrollo" uid="47">
                     <properties>
                         <text>Desarrollo Curricula:</text>
                         <initial-visibility>Visible</initial-visibility>
@@ -220,7 +220,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="txtDesarrollo" uid="41">
+                <instance type="txtDesarrollo" uid="48">
                     <properties>
                         <text>Banco Popular:</text>
                         <initial-visibility>Visible</initial-visibility>
@@ -247,7 +247,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="txtDesarrollo" uid="42">
+                <instance type="txtDesarrollo" uid="49">
                     <properties>
                         <text>Uned:</text>
                         <initial-visibility>Visible</initial-visibility>
