@@ -295,6 +295,126 @@
                     <param id="0" name="Layout">&quot;Creditos&quot;</param>
                 </action>
             </actions>
+            <sub-events>
+                <comment>Agregar sonidos a los objetos</comment>
+            </sub-events>
+        </event-block>
+        <event-block sid="545088838694815">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="263898175495207" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="128284777546731" type="Audio">
+                    <param id="0" name="Audio file">logrado1</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">10</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="227796503035131">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="637802277243957" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="967865629283054" type="Audio">
+                    <param id="0" name="Audio file">logrado1</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">10</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="129120040456234">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="729873754415594" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">btnAcercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="810161683798682" type="Audio">
+                    <param id="0" name="Audio file">bambu_1</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">10</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="693380818163632">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="160039124983475" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">btnCreditos</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="773068456122275" type="Audio">
+                    <param id="0" name="Audio file">bambu_1</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">10</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="287402593542672">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="848106216434527" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">btnEncuenta</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="140731377372401" type="Audio">
+                    <param id="0" name="Audio file">bambu_1</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">10</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="465315364798418">
+            <conditions>
+                <condition id="6" name="On object clicked" sid="468560021557304" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                    <param id="2" name="Object clicked">btncerrar</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="759446378527499" type="Audio">
+                    <param id="0" name="Audio file">bambu_1</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">15</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="946869659478253">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="767047289542993" type="Mouse">
+                    <param id="0" name="Object">gifVentilador</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="393728458854485" type="Audio">
+                    <param id="0" name="Audio file">ventiladr</param>
+                    <param id="2" name="Loop">0</param>
+                    <param id="3" name="Volume">0</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
         </event-block>
     </events>
 </c2eventsheet>

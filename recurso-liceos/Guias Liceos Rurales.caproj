@@ -10,6 +10,7 @@
     <unique-id>2vxg8ezv9vy13</unique-id>
     <saved-with-version>27700</saved-with-version>
     <used-plugins>
+        <plugin author="Scirra" id="Audio" version="1">Audio</plugin>
         <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
         <plugin author="Scirra" id="Mouse" version="1">Mouse</plugin>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
@@ -620,6 +621,9 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="Audio" sid="236449785721127">
+                <plugin id="Audio" />
+            </object-type>
         </object-folder>
         <object-type name="banner_gespro2" sid="500025414128462">
             <plugin id="Sprite" />
@@ -938,9 +942,29 @@
         </global-instance>
         <global-instance type="Browser" uid="16" />
         <global-instance type="Mouse" uid="20" />
+        <global-instance type="Audio" uid="45">
+            <properties>
+                <timescale-audio>Off</timescale-audio>
+                <saveload>All</saveload>
+                <play-in-background>No</play-in-background>
+                <positioned-audio></positioned-audio>
+                <panning-model>HRTF</panning-model>
+                <distance-model>Inverse</distance-model>
+                <listener-z-height>600</listener-z-height>
+                <reference-distance>600</reference-distance>
+                <maximum-distance>10000</maximum-distance>
+                <roll-off-factor>1</roll-off-factor>
+            </properties>
+        </global-instance>
     </global-instances>
-    <sounds-folder />
-    <music-folder />
+    <sounds-folder>
+        <file name="bambu_1.ogg" />
+        <file name="logrado1.ogg" />
+        <file name="ventiladr.ogg" />
+    </sounds-folder>
+    <music-folder>
+        <file name="canciondeinicio.ogg" />
+    </music-folder>
     <files-folder>
         <file-folder name="Icons">
             <file name="icon-16.png" />

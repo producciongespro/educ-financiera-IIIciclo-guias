@@ -3,6 +3,19 @@
     <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
     <name>EventoIntro</name>
     <events>
+        <event-block sid="691967232742082">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="491063121264706" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Play" sid="481788796849178" type="Audio">
+                    <param id="0" name="Audio file">canciondeinicio</param>
+                    <param id="2" name="Loop">1</param>
+                    <param id="3" name="Volume">1</param>
+                    <param id="1" name="Tag (optional)">&quot;&quot;</param>
+                </action>
+            </actions>
+        </event-block>
         <event-block sid="430100760897642">
             <conditions>
                 <condition id="-25" name="On loader layout complete" sid="191285628019550" type="System" />
