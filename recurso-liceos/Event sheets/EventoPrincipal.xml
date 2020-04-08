@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>EventoPrincipal</name>
+    <events>
+        <variable constant="0" name="seleccion" sid="357619229709171" static="0" type="number">0</variable>
+        <event-group description="" sid="809536151928801" title="Enlaces a guias de docentes">
+            <sub-events>
+                <event-block sid="979073667371584">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="945693806811155" type="Touch">
+                            <param id="0" name="Object">GifGuiaDocente</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-9" name="Set value" sid="930681093377496" type="System">
+                            <param id="0" name="Variable">seleccion</param>
+                            <param id="1" name="Value">GifGuiaDocente.UID</param>
+                        </action>
+                    </actions>
+                    <sub-events>
+                        <event-block sid="906019627544386">
+                            <conditions>
+                                <condition id="-14" name="Pick by unique ID" sid="385204663464928" type="GifGuiaDocente">
+                                    <param id="0" name="Unique ID">seleccion</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="8" name="Open URL in new window" sid="787747151837156" type="Browser">
+                                    <param id="0" name="URL">GifGuiaDocente.direccion</param>
+                                    <param id="1" name="Tag">&quot;NewWindow&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                    </sub-events>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="463554255829694" title="Enlaces a guias de estudiantes">
+            <sub-events>
+                <event-block sid="173960100377060">
+                    <conditions>
+                        <condition id="3" name="On touched object" sid="662396305919235" type="Touch">
+                            <param id="0" name="Object">GifGuiaEstudiante</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-9" name="Set value" sid="178882796601015" type="System">
+                            <param id="0" name="Variable">seleccion</param>
+                            <param id="1" name="Value">GifGuiaEstudiante.UID</param>
+                        </action>
+                    </actions>
+                    <sub-events>
+                        <event-block sid="975603202234629">
+                            <conditions>
+                                <condition id="-14" name="Pick by unique ID" sid="604790654748317" type="GifGuiaEstudiante">
+                                    <param id="0" name="Unique ID">seleccion</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="8" name="Open URL in new window" sid="178229692456895" type="Browser">
+                                    <param id="0" name="URL">GifGuiaEstudiante.direccion</param>
+                                    <param id="1" name="Tag">&quot;NewWindow&quot;</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                    </sub-events>
+                </event-block>
+            </sub-events>
+        </event-group>
+        <event-group description="" sid="764983936932210" title="Efectos" />
+        <event-block sid="206897524522644">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="774564628241292" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Set cursor style" sid="764303159072363" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+            <sub-events>
+                <event-block sid="598095494300980">
+                    <conditions>
+                        <condition id="7" inverted="1" name="Cursor is over object" sid="405469537912332" type="Mouse">
+                            <param id="0" name="Object">GifGuiaDocente</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set cursor style" sid="150066880733165" type="Mouse">
+                            <param id="0" name="Cursor style">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-block>
+        <event-block sid="661692837318605">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="552392625002362" type="Mouse">
+                    <param id="0" name="Object">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Set cursor style" sid="372287758514176" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+            <sub-events>
+                <event-block sid="214141043112359">
+                    <conditions>
+                        <condition id="7" inverted="1" name="Cursor is over object" sid="776057777762060" type="Mouse">
+                            <param id="0" name="Object">GifGuiaEstudiante</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="0" name="Set cursor style" sid="653254027849628" type="Mouse">
+                            <param id="0" name="Cursor style">0</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-block>
+        <event-block sid="546051969019120">
+            <conditions>
+                <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
+                    <param id="0" name="Object">acercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="869283308663833" type="System">
+                    <param id="0" name="Layout">Acercade</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="338889975900637">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="148561478302592" type="Mouse">
+                    <param id="0" name="Object">acercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Set cursor style" sid="329039203850507" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="699810000994250">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="485743584036034" type="Mouse">
+                    <param id="0" name="Object">acercade</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="566142724233101" type="acercade">
+                    <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="625860657235560">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="194246858850827" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="978989816540743" type="GifGuiaDocente">
+                    <param id="0" name="Opacity">70</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="410619224670302">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="546817574952841" type="Mouse">
+                    <param id="0" name="Object">GifGuiaDocente</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="878262795495816" type="GifGuiaDocente">
+                    <param id="0" name="Opacity">100</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="112221171804465">
+            <conditions>
+                <condition id="7" name="Cursor is over object" sid="388715481208066" type="Mouse">
+                    <param id="0" name="Object">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="761062332142597" type="GifGuiaEstudiante">
+                    <param id="0" name="Opacity">70</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="434292788400746">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="462653262937270" type="Mouse">
+                    <param id="0" name="Object">GifGuiaEstudiante</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="344452376579425" type="GifGuiaEstudiante">
+                    <param id="0" name="Opacity">100</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
