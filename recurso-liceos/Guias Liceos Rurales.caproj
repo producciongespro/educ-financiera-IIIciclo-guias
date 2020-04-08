@@ -226,38 +226,72 @@
             <object-type name="gifPersPrincipal" sid="600716282216806">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="394194692735184" speed="5">
-                        <frame duration="1" hotspotX="0.504132" hotspotY="0.413534" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Gif-taquillo-Pantalla Principal.gif">
-                            <collision-poly>
-                                <point x="0.136364" y="0.229323" />
-                                <point x="0.504132" y="0.0037594" />
-                                <point x="0.880165" y="0.221805" />
-                                <point x="0.995868" y="0.413534" />
-                                <point x="0.884298" y="0.609023" />
-                                <point x="0.504132" y="0.759399" />
-                                <point x="0.107438" y="0.62406" />
-                                <point x="0.0991736" y="0.413534" />
-                            </collision-poly>
-                        </frame>
+                    <animation framecount="5" loop="1" name="Default" pingpong="0" repeatcount="5" repeatto="0" sid="394194692735184" speed="3">
+                        <frame duration="1" hotspotX="0.504132" hotspotY="0.413534" />
+                        <frame duration="1" hotspotX="0.504132" hotspotY="0.413534" />
+                        <frame duration="1" hotspotX="0.463878" hotspotY="0.486842" />
+                        <frame duration="1" hotspotX="0.463878" hotspotY="0.486842" />
+                        <frame duration="1" hotspotX="0.442029" hotspotY="0.490196" />
                     </animation>
                 </animation-folder>
             </object-type>
             <object-type name="gifVentilador" sid="348158432829947">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="395756943590533" speed="5">
-                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Gif-Abanico.gif">
-                            <collision-poly>
-                                <point x="0.0313726" y="0.254658" />
-                                <point x="0.498039" y="0.00310559" />
-                                <point x="0.964706" y="0.254658" />
-                                <point x="0.980392" y="0.5" />
-                                <point x="0.862745" y="0.664596" />
-                                <point x="0.498039" y="0.996894" />
-                                <point x="0.133333" y="0.664596" />
-                                <point x="0.0196078" y="0.5" />
-                            </collision-poly>
-                        </frame>
+                    <animation framecount="41" loop="1" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="395756943590533" speed="5">
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.494163" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.494163" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.492248" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.496094" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.494163" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.492248" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.48659" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.492248" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.48659" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.496094" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.494163" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.494163" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.490348" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.488462" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.492248" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                        <frame duration="1" hotspotX="0.498039" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+            <object-type name="GifPersojeAcercade" sid="514857284661845">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="5" loop="1" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="827935206646641" speed="5">
+                        <frame duration="1" hotspotX="0.51735" hotspotY="0.399329" />
+                        <frame duration="1" hotspotX="0.51735" hotspotY="0.431746" />
+                        <frame duration="1" hotspotX="0.51735" hotspotY="0.473529" />
+                        <frame duration="1" hotspotX="0.450549" hotspotY="0.48415" />
+                        <frame duration="1" hotspotX="0.450549" hotspotY="0.48415" />
                     </animation>
                 </animation-folder>
             </object-type>
