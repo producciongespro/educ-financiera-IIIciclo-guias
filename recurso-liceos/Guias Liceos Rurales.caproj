@@ -423,21 +423,21 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="453131041565648" speed="5">
-                        <frame duration="1" hotspotX="0.541985" hotspotY="0.459677" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\Botón-Acerca-de.png">
+                        <frame duration="1" hotspotX="0.536585" hotspotY="0.448276" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botón-Acerca-de.png">
                             <collision-poly>
-                                <point x="0.0610687" y="0.00403263" />
-                                <point x="0.541985" y="0.0282253" />
-                                <point x="0.793893" y="0.245967" />
-                                <point x="0.965649" y="0.459677" />
-                                <point x="0.996183" y="0.887096" />
-                                <point x="0.541985" y="0.487903" />
-                                <point x="0.503817" y="0.447581" />
-                                <point x="0.519084" y="0.459677" />
+                                <point x="0.00961956" y="0" />
+                                <point x="0.533545" y="0" />
+                                <point x="0.807981" y="0.199248" />
+                                <point x="0.995097" y="0.452261" />
+                                <point x="1" y="0.958286" />
+                                <point x="0.533545" y="0.485678" />
+                                <point x="0.491963" y="0.437941" />
+                                <point x="0.508596" y="0.452261" />
                             </collision-poly>
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="998926947268140" speed="5">
-                        <frame duration="1" hotspotX="0.541985" hotspotY="0.459677" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Boton-Acerca-de-Activo.png">
+                        <frame duration="1" hotspotX="0.544776" hotspotY="0.456311" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Acerca-de-Activo.png">
                             <collision-poly>
                                 <point x="0.0610687" y="0.00403226" />
                                 <point x="0.541985" y="0.0282258" />
