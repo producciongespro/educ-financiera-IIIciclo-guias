@@ -171,79 +171,103 @@
                 </action>
             </actions>
         </event-block>
-        <comment>Los botones de acerca de, creditos y encuenta, cambien su apariencia al ser presionados</comment>
-        <event-block sid="338889975900637">
+        <comment>Los botones de acerca de, creditos y encuenta, cambien su apariencia al pasar el mouse encima</comment>
+        <comment>Acercade</comment>
+        <event-block sid="489676193521769">
             <conditions>
-                <condition id="7" name="Cursor is over object" sid="148561478302592" type="Mouse">
+                <condition id="7" name="Cursor is over object" sid="769537144493647" type="Mouse">
                     <param id="0" name="Object">btnAcercade</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="0" name="Set cursor style" sid="329039203850507" type="Mouse">
+                <action id="4" name="Set animation" sid="667067848593975" type="btnAcercade">
+                    <param id="0" name="Animation">&quot;presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="289656852416090" type="Mouse">
                     <param id="0" name="Cursor style">1</param>
                 </action>
             </actions>
         </event-block>
-        <event-block sid="699810000994250">
+        <event-block sid="542065931556331">
             <conditions>
-                <condition id="7" inverted="1" name="Cursor is over object" sid="485743584036034" type="Mouse">
+                <condition id="7" inverted="1" name="Cursor is over object" sid="148900403451052" type="Mouse">
                     <param id="0" name="Object">btnAcercade</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="4" name="Set animation" sid="566142724233101" type="btnAcercade">
+                <action id="4" name="Set animation" sid="326653231024623" type="btnAcercade">
                     <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                     <param id="1" name="From">1</param>
                 </action>
+                <action id="0" name="Set cursor style" sid="998793787485898" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
+                </action>
             </actions>
         </event-block>
-        <event-block sid="990371229801188">
+        <comment>Creditos</comment>
+        <event-block sid="488480415619688">
             <conditions>
-                <condition id="7" name="Cursor is over object" sid="691403448472703" type="Mouse">
+                <condition id="7" name="Cursor is over object" sid="747218342042805" type="Mouse">
                     <param id="0" name="Object">btnCreditos</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="0" name="Set cursor style" sid="844846865368936" type="Mouse">
+                <action id="4" name="Set animation" sid="977470311214346" type="btnCreditos">
+                    <param id="0" name="Animation">&quot;presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="510528991425094" type="Mouse">
                     <param id="0" name="Cursor style">1</param>
                 </action>
             </actions>
         </event-block>
-        <event-block sid="777476399972015">
+        <event-block sid="924461818042975">
             <conditions>
-                <condition id="7" inverted="1" name="Cursor is over object" sid="622760739609074" type="Mouse">
+                <condition id="7" inverted="1" name="Cursor is over object" sid="937739356288877" type="Mouse">
                     <param id="0" name="Object">btnCreditos</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="4" name="Set animation" sid="638971554753034" type="btnCreditos">
+                <action id="4" name="Set animation" sid="156952459995226" type="btnCreditos">
                     <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
                     <param id="1" name="From">1</param>
                 </action>
-            </actions>
-        </event-block>
-        <comment>Ira a las páginas de acercade y creditos al ser presionados</comment>
-        <event-block sid="546051969019120">
-            <conditions>
-                <condition id="3" name="On touched object" sid="558773911857930" type="Touch">
-                    <param id="0" name="Object">btnAcercade</param>
-                </condition>
-            </conditions>
-            <actions>
-                <action id="-2" name="Go to layout" sid="869283308663833" type="System">
-                    <param id="0" name="Layout">Acercade</param>
+                <action id="0" name="Set cursor style" sid="166597056473491" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
                 </action>
             </actions>
         </event-block>
-        <event-block sid="994430811462980">
+        <comment>Encuentas</comment>
+        <event-block sid="529370252251082">
             <conditions>
-                <condition id="3" name="On touched object" sid="694351188005014" type="Touch">
-                    <param id="0" name="Object">btnCreditos</param>
+                <condition id="7" name="Cursor is over object" sid="437042490387915" type="Mouse">
+                    <param id="0" name="Object">btnEncuenta</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="-2" name="Go to layout" sid="793854103356679" type="System">
-                    <param id="0" name="Layout">Creditos</param>
+                <action id="4" name="Set animation" sid="890798268345353" type="btnEncuenta">
+                    <param id="0" name="Animation">&quot;presionado&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="990319153797837" type="Mouse">
+                    <param id="0" name="Cursor style">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="967992519524318">
+            <conditions>
+                <condition id="7" inverted="1" name="Cursor is over object" sid="603224111518423" type="Mouse">
+                    <param id="0" name="Object">btnEncuenta</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="4" name="Set animation" sid="446424043452987" type="btnEncuenta">
+                    <param id="0" name="Animation">&quot;sinpresionar&quot;</param>
+                    <param id="1" name="From">1</param>
+                </action>
+                <action id="0" name="Set cursor style" sid="718101546356333" type="Mouse">
+                    <param id="0" name="Cursor style">0</param>
                 </action>
             </actions>
         </event-block>
