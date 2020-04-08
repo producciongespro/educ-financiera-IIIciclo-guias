@@ -324,6 +324,9 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="Text" sid="299831370042765">
+                <plugin id="Text" />
+            </object-type>
         </object-folder>
         <object-folder name="GUI">
             <object-type name="Touch" sid="981709812693078">
@@ -338,31 +341,31 @@
             <object-type name="btncerrar" sid="497391827348818">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
-                        <frame duration="1" hotspotX="0.507143" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Recurso-Primaria-Activado.png">
+                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="433038286587441" speed="5">
+                        <frame duration="1" hotspotX="0.502645" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Volver.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.155039" />
-                                <point x="0.5" y="0.0697674" />
-                                <point x="0.892857" y="0.116279" />
-                                <point x="0.964286" y="0.496124" />
-                                <point x="0.892857" y="0.883721" />
-                                <point x="0.5" y="0.899225" />
-                                <point x="0.164286" y="0.821705" />
-                                <point x="0.0571429" y="0.496124" />
+                                <point x="0.0763415" y="0.040052" />
+                                <point x="0.492063" y="0" />
+                                <point x="0.949357" y="0" />
+                                <point x="1" y="0.494832" />
+                                <point x="0.949357" y="1" />
+                                <point x="0.492063" y="1" />
+                                <point x="0.101285" y="0.92894" />
+                                <point x="0" y="0.494832" />
                             </collision-poly>
                         </frame>
                     </animation>
-                    <animation framecount="1" loop="0" name="sinpresionar" pingpong="0" repeatcount="1" repeatto="0" sid="517178069518614" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.503876" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Boton-Cerrar.png">
+                    <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="517178069518614" speed="5">
+                        <frame duration="1" hotspotX="0.492228" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Volver-Activo.png">
                             <collision-poly>
-                                <point x="0.142857" y="0.155039" />
-                                <point x="0.5" y="0.0697674" />
-                                <point x="0.892857" y="0.116279" />
-                                <point x="0.964286" y="0.496124" />
-                                <point x="0.892857" y="0.883721" />
-                                <point x="0.5" y="0.899225" />
-                                <point x="0.164286" y="0.821705" />
-                                <point x="0.0571429" y="0.496124" />
+                                <point x="0.085122" y="0.0687988" />
+                                <point x="0.492228" y="0" />
+                                <point x="0.940044" y="0.0203487" />
+                                <point x="1" y="0.495155" />
+                                <point x="0.940044" y="0.979651" />
+                                <point x="0.492228" y="0.999031" />
+                                <point x="0.109549" y="0.902131" />
+                                <point x="0" y="0.495155" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -546,16 +549,16 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="998926947268140" speed="5">
-                        <frame duration="1" hotspotX="0.544776" hotspotY="0.456311" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Acerca-de-Activo.png">
+                        <frame duration="1" hotspotX="0.536585" hotspotY="0.448276" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Acerca-de-Activo.png">
                             <collision-poly>
-                                <point x="0.0610687" y="0.00403226" />
-                                <point x="0.541985" y="0.0282258" />
-                                <point x="0.793893" y="0.245968" />
-                                <point x="0.965649" y="0.459677" />
-                                <point x="0.996183" y="0.887097" />
-                                <point x="0.541985" y="0.487903" />
-                                <point x="0.503817" y="0.447581" />
-                                <point x="0.519084" y="0.459677" />
+                                <point x="0.00961956" y="0" />
+                                <point x="0.533545" y="0" />
+                                <point x="0.807981" y="0.199249" />
+                                <point x="0.995097" y="0.452261" />
+                                <point x="1" y="0.958287" />
+                                <point x="0.533545" y="0.485678" />
+                                <point x="0.491963" y="0.437941" />
+                                <point x="0.508596" y="0.452261" />
                             </collision-poly>
                         </frame>
                     </animation>
@@ -576,12 +579,12 @@
                         </frame>
                     </animation>
                     <animation framecount="1" loop="0" name="presionado" pingpong="0" repeatcount="1" repeatto="0" sid="297277027869154" speed="5">
-                        <frame duration="1" hotspotX="0.477612" hotspotY="0.514563" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Encuesta-Activo.png">
+                        <frame duration="1" hotspotX="0.463415" hotspotY="0.528736" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Boton-Encuesta-Activo.png">
                             <collision-poly>
                                 <point x="0" y="0" />
-                                <point x="0.97865" y="0" />
-                                <point x="1" y="0.506804" />
-                                <point x="0.960936" y="1" />
+                                <point x="1" y="0" />
+                                <point x="1" y="0.51955" />
+                                <point x="0.989963" y="1" />
                                 <point x="0" y="1" />
                             </collision-poly>
                         </frame>

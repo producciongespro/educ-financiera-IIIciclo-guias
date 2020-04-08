@@ -131,7 +131,7 @@
             </conditions>
             <actions>
                 <action id="-16" name="Set opacity" sid="978989816540743" type="GifGuiaDocente">
-                    <param id="0" name="Opacity">70</param>
+                    <param id="0" name="Opacity">40</param>
                 </action>
             </actions>
         </event-block>
@@ -155,7 +155,7 @@
             </conditions>
             <actions>
                 <action id="-16" name="Set opacity" sid="761062332142597" type="GifGuiaEstudiante">
-                    <param id="0" name="Opacity">70</param>
+                    <param id="0" name="Opacity">40</param>
                 </action>
             </actions>
         </event-block>
