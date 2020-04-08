@@ -1048,15 +1048,15 @@
             </instance-variables>
             <animation-folder>
                 <animation framecount="5" loop="0" name="estudiante1" pingpong="0" repeatcount="1" repeatto="0" sid="182406333484718" speed="1">
-                    <frame duration="1" hotspotX="0.512748" hotspotY="0.455357">
+                    <frame duration="1" hotspotX="0.572917" hotspotY="0.448276" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Setimo-Alumno.png">
                         <collision-poly>
-                            <point x="0.0566572" y="0.00892857" />
-                            <point x="0.512748" y="0.00892857" />
-                            <point x="0.917847" y="0.169643" />
-                            <point x="0.991501" y="0.964286" />
-                            <point x="0.512748" y="0.982143" />
-                            <point x="0.0793201" y="0.821429" />
-                            <point x="0.0453258" y="0.446429" />
+                            <point x="0" y="0" />
+                            <point x="0.569081" y="0" />
+                            <point x="1" y="0.101293" />
+                            <point x="1" y="1" />
+                            <point x="0.569081" y="1" />
+                            <point x="0" y="0.887932" />
+                            <point x="0" y="0.435345" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825">
@@ -1105,16 +1105,16 @@
                     </frame>
                 </animation>
                 <animation framecount="5" loop="0" name="estudiante2" pingpong="0" repeatcount="1" repeatto="0" sid="394903906693278" speed="1">
-                    <frame duration="1" hotspotX="0.512748" hotspotY="0.504425" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-2.gif">
+                    <frame duration="1" hotspotX="0.520833" hotspotY="0.508621" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Octavo-Alumno.png">
                         <collision-poly>
-                            <point x="0.0396601" y="0.00884956" />
-                            <point x="0.512748" y="0.00884956" />
-                            <point x="0.923513" y="0.20354" />
-                            <point x="0.951841" y="0.495575" />
-                            <point x="0.974504" y="0.955752" />
-                            <point x="0.512748" y="0.973451" />
-                            <point x="0.0849858" y="0.849558" />
-                            <point x="0.0481586" y="0.495575" />
+                            <point x="0" y="0" />
+                            <point x="0.516997" y="0" />
+                            <point x="1" y="0.142203" />
+                            <point x="1" y="0.494659" />
+                            <point x="1" y="1" />
+                            <point x="0.516997" y="1" />
+                            <point x="0" y="0.92188" />
+                            <point x="0" y="0.494659" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-2-0\Gif-Guia-Estudiante-2-1.png" />
@@ -1123,16 +1123,16 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-2-0\Gif-Guia-Estudiante-2-4.png" />
                 </animation>
                 <animation framecount="5" loop="0" name="estudiante3" pingpong="0" repeatcount="1" repeatto="0" sid="573942146981158" speed="1">
-                    <frame duration="1" hotspotX="0.501416" hotspotY="0.455357" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-3.gif">
+                    <frame duration="1" hotspotX="0.479167" hotspotY="0.465517" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Noveno-Alumno.png">
                         <collision-poly>
-                            <point x="0.0453258" y="0.00892857" />
-                            <point x="0.501416" y="0.00892857" />
-                            <point x="0.917847" y="0.133929" />
-                            <point x="0.949009" y="0.446429" />
-                            <point x="0.98017" y="0.964286" />
-                            <point x="0.501416" y="0.982143" />
-                            <point x="0.0793201" y="0.785714" />
-                            <point x="0.0453258" y="0.446429" />
+                            <point x="0" y="0" />
+                            <point x="0.481055" y="0" />
+                            <point x="1" y="0.0754315" />
+                            <point x="1" y="0.452587" />
+                            <point x="1" y="1" />
+                            <point x="0.481055" y="1" />
+                            <point x="0" y="0.862069" />
+                            <point x="0" y="0.452587" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-3-0\Gif-Guia-Estudiante-3-1.png" />
@@ -1141,15 +1141,15 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-3-0\Gif-Guia-Estudiante-3-4.png" />
                 </animation>
                 <animation framecount="5" loop="0" name="estudiante4" pingpong="0" repeatcount="1" repeatto="0" sid="514305636033284" speed="1">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-4.gif">
+                    <frame duration="1" hotspotX="0.520833" hotspotY="0.525862" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Decimo-Alumno.png">
                         <collision-poly>
-                            <point x="0.07" y="0.158192" />
-                            <point x="0.5" y="0.158192" />
-                            <point x="0.8725" y="0.288136" />
-                            <point x="0.9025" y="0.497175" />
-                            <point x="0.895" y="0.762712" />
-                            <point x="0.5" y="0.774011" />
-                            <point x="0.135" y="0.694915" />
+                            <point x="0" y="0.113335" />
+                            <point x="0.520833" y="0.113335" />
+                            <point x="1" y="0.270164" />
+                            <point x="1" y="0.522453" />
+                            <point x="1" y="0.842928" />
+                            <point x="0.520833" y="0.856565" />
+                            <point x="0.0341667" y="0.761104" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-4-0\Gif-Guia-Estudiante-4-1.png" />
@@ -1158,40 +1158,22 @@
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-4-0\Gif-Guia-Estudiante-4-4.png" />
                 </animation>
                 <animation framecount="5" loop="0" name="estudiante5" pingpong="0" repeatcount="1" repeatto="0" sid="758435432852843" speed="1">
-                    <frame duration="1" hotspotX="0.487252" hotspotY="0.455357" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-5.gif">
+                    <frame duration="1" hotspotX="0.46875" hotspotY="0.456897" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Botella-Undecimo-Alumno.png">
                         <collision-poly>
-                            <point x="0.0311615" y="0.00892857" />
-                            <point x="0.487252" y="0.00892857" />
-                            <point x="0.912181" y="0.107143" />
-                            <point x="0.946176" y="0.446429" />
-                            <point x="0.966006" y="0.964286" />
-                            <point x="0.487252" y="0.982143" />
-                            <point x="0.0764873" y="0.75" />
-                            <point x="0.0453258" y="0.446429" />
+                            <point x="0" y="0" />
+                            <point x="0.472586" y="0" />
+                            <point x="1" y="0.0344829" />
+                            <point x="1" y="0.443966" />
+                            <point x="1" y="1" />
+                            <point x="0.472586" y="1" />
+                            <point x="0" y="0.810345" />
+                            <point x="0" y="0.443966" />
                         </collision-poly>
                     </frame>
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-5-0\Gif-Guia-Estudiante-5-1.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-5-0\Gif-Guia-Estudiante-5-2.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-5-0\Gif-Guia-Estudiante-5-3.png" />
                     <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-5-0\Gif-Guia-Estudiante-5-4.png" />
-                </animation>
-                <animation framecount="5" loop="0" name="estudiante6" pingpong="0" repeatcount="1" repeatto="0" sid="664783724399999" speed="1">
-                    <frame duration="1" hotspotX="0.487252" hotspotY="0.455357" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Gif-Guia-Estudiante-6.gif">
-                        <collision-poly>
-                            <point x="0.0311615" y="0.00892857" />
-                            <point x="0.487252" y="0.00892857" />
-                            <point x="0.912181" y="0.107143" />
-                            <point x="0.946176" y="0.446429" />
-                            <point x="0.966006" y="0.964286" />
-                            <point x="0.487252" y="0.982143" />
-                            <point x="0.0764873" y="0.75" />
-                            <point x="0.0453258" y="0.446429" />
-                        </collision-poly>
-                    </frame>
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-1.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-2.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-3.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.502825" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\frame\Gif-Guia-Estudiante-6-0\Gif-Guia-Estudiante-6-4.png" />
                 </animation>
             </animation-folder>
         </object-type>
