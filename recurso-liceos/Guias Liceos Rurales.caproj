@@ -295,6 +295,35 @@
                     </animation>
                 </animation-folder>
             </object-type>
+            <object-type name="Sprite" sid="533644937635188">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="12" loop="1" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="100835068230910" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\frame\personaje-creditos\frame-01.gif">
+                            <collision-poly>
+                                <point x="0.352071" y="0.441176" />
+                                <point x="0.5" y="0.584967" />
+                                <point x="0.961538" y="0.0947712" />
+                                <point x="0.955621" y="0.846405" />
+                                <point x="0.5" y="0.980392" />
+                                <point x="0.0325444" y="0.859477" />
+                                <point x="0.292899" y="0.473856" />
+                            </collision-poly>
+                        </frame>
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.473856" />
+                    </animation>
+                </animation-folder>
+            </object-type>
         </object-folder>
         <object-folder name="GUI">
             <object-type name="Touch" sid="981709812693078">
