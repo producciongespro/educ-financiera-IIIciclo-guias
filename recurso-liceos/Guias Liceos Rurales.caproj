@@ -328,6 +328,22 @@
             <object-type name="Text" sid="299831370042765">
                 <plugin id="Text" />
             </object-type>
+            <object-type name="gifPersInicio" sid="966656629389265">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="9" loop="1" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="553883746636388" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.484848" />
+                        <frame duration="1" hotspotX="0.497326" hotspotY="0.481356" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.481356" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.479592" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.49" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.470588" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.49505" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.491694" />
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.486577" />
+                    </animation>
+                </animation-folder>
+            </object-type>
         </object-folder>
         <object-folder name="GUI">
             <object-type name="Touch" sid="981709812693078">

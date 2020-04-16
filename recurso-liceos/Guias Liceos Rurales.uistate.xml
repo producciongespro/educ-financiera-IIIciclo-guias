@@ -12,11 +12,11 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     <open-tabs>
         <layout order="0">Acercade</layout>
         <layout order="1">Principal</layout>
-        <layout order="4">Intro</layout>
+        <layout active="1" order="4">Intro</layout>
         <layout order="7">Creditos</layout>
         <event-sheet order="2">EventoPrincipal</event-sheet>
         <event-sheet order="3">EventoAcercade</event-sheet>
-        <event-sheet active="1" order="5">EventoIntro</event-sheet>
+        <event-sheet order="5">EventoIntro</event-sheet>
         <event-sheet order="6">EventoCreditos</event-sheet>
     </open-tabs>
     <properties>
@@ -52,6 +52,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         <folder expanded="1" path="animation-folder/gifVentilador/" />
         <folder expanded="1" path="animation-folder/GifPersojeAcercade/" />
         <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/gifPersInicio/" />
         <folder expanded="1" path="animation-folder/btncerrar/" />
         <folder expanded="1" path="animation-folder/GifGuiaDocente/" />
         <folder expanded="1" path="animation-folder/GifGuiaEstudiante/" />
