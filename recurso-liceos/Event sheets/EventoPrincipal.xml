@@ -411,7 +411,7 @@
                 <action id="0" name="Play" sid="393728458854485" type="Audio">
                     <param id="0" name="Audio file">ventiladr</param>
                     <param id="2" name="Loop">0</param>
-                    <param id="3" name="Volume">0</param>
+                    <param id="3" name="Volume">-30</param>
                     <param id="1" name="Tag (optional)">&quot;&quot;</param>
                 </action>
             </actions>
