@@ -980,6 +980,8 @@
     </sounds-folder>
     <music-folder>
         <file name="canciondeinicio.ogg" />
+        <file name="Karibu Watu Wangu.ogg" />
+        <file name="sonata.ogg" />
     </music-folder>
     <files-folder>
         <file-folder name="Icons">

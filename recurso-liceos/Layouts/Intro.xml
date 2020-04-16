@@ -53,7 +53,7 @@
                 </instance>
                 <instance type="Text3" uid="11">
                     <properties>
-                        <text>Guías para docentes y estudiantes</text>
+                        <text>Guías didácticas para el área socio productiva</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Snap ITC,-18.4,700,0</font>
                         <color>0,0,0</color>
@@ -66,10 +66,10 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>274.058532715</x>
+                        <x>78.05859375</x>
                         <y>-96.720001221</y>
                         <z>0</z>
-                        <width>817</width>
+                        <width>1013</width>
                         <height>90</height>
                         <depth>0</depth>
                         <hotspotX>0</hotspotX>
@@ -82,7 +82,7 @@
                     <properties>
                         <text></text>
                         <initial-visibility>Visible</initial-visibility>
-                        <font>Tw Cen MT,-48,700,0</font>
+                        <font>Tw Cen MT,-37,700,0</font>
                         <color>255,153,255</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
@@ -93,10 +93,10 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>82.000244141</x>
-                        <y>368.13571167</y>
+                        <x>58</x>
+                        <y>389</y>
                         <z>0</z>
-                        <width>702</width>
+                        <width>797</width>
                         <height>64</height>
                         <depth>0</depth>
                         <hotspotX>0</hotspotX>
