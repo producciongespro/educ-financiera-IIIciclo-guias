@@ -114,50 +114,6 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="logoUned" uid="29">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>121.516113281</x>
-                        <y>24.362663269</y>
-                        <z>0</z>
-                        <width>42.527999878</width>
-                        <height>42.331001282</height>
-                        <depth>0</depth>
-                        <hotspotX>0.493506491</hotspotX>
-                        <hotspotY>0.493506491</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="logoPopular" uid="30">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>76.212463379</x>
-                        <y>25.273452759</y>
-                        <z>0</z>
-                        <width>39.490287781</width>
-                        <height>40.266075134</height>
-                        <depth>0</depth>
-                        <hotspotX>0.474358976</hotspotX>
-                        <hotspotY>0.512820542</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
                 <instance type="logoMep" uid="10">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
@@ -278,14 +234,36 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>751.708862305</x>
-                        <y>191.698974609</y>
+                        <x>752.038208008</x>
+                        <y>172.766220093</y>
                         <z>0</z>
-                        <width>121.396003723</width>
-                        <height>92.420463562</height>
+                        <width>169.180603027</width>
+                        <height>137.49911499</height>
                         <depth>0</depth>
                         <hotspotX>0.497500002</hotspotX>
                         <hotspotY>0.5</hotspotY>
+                        <angle>0</angle>
+                        <opacity>1</opacity>
+                    </world>
+                </instance>
+                <instance type="logoPopular" uid="15">
+                    <properties>
+                        <initial-visibility>Visible</initial-visibility>
+                        <initial-animation>Default</initial-animation>
+                        <initial-frame>0</initial-frame>
+                        <collisions>Enabled</collisions>
+                    </properties>
+                    <blend-mode>0</blend-mode>
+                    <effect-fallback>0</effect-fallback>
+                    <world>
+                        <x>103.293075562</x>
+                        <y>29.821056366</y>
+                        <z>0</z>
+                        <width>94.366409302</width>
+                        <height>44.096160889</height>
+                        <depth>0</depth>
+                        <hotspotX>0.474431813</hotspotX>
+                        <hotspotY>0.512499988</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>

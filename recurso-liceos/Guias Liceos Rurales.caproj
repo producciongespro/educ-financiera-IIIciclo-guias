@@ -140,7 +140,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="843470502124667" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-primaria\diseno\RE__Diseño_Recurso_Primaria_Guías_Hogar\Logo-MEP.png">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Logo-BAC.png">
                             <collision-poly>
                                 <point x="0.178571" y="0.182927" />
                                 <point x="0.5" y="0.0487805" />
@@ -159,7 +159,7 @@
                 <plugin id="Sprite" />
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="563359456291334" speed="5">
-                        <frame duration="1" hotspotX="0.474359" hotspotY="0.512821" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\imagenes aprobadas\Logo-BAC.png">
+                        <frame duration="1" hotspotX="0.474432" hotspotY="0.5125" original-source="C:\wamp64\www\educ-financiera-IIIciclo-guias\diseno\Logo Alianza y Semillas de Cambio\Logo_Semillas_de_cambio.png">
                             <collision-poly>
                                 <point x="0.844155" y="0.857143" />
                                 <point x="0.480519" y="0.987013" />
