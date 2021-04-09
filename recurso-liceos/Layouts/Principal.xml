@@ -39,8 +39,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>428.000030518</x>
-                        <y>239.260192871</y>
+                        <x>430.704589844</x>
+                        <y>243.768066406</y>
                         <z>0</z>
                         <width>856</width>
                         <height>482.507843018</height>
@@ -80,8 +80,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>80.286483765</x>
-                        <y>265.775085449</y>
+                        <x>88.401611328</x>
+                        <y>271.184906006</y>
                         <z>0</z>
                         <width>146.130157471</width>
                         <height>407.42489624</height>
@@ -102,8 +102,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>80.278846741</x>
-                        <y>106.99508667</y>
+                        <x>93.803131104</x>
+                        <y>111.502960205</y>
                         <z>0</z>
                         <width>82.594963074</width>
                         <height>58.316116333</height>
@@ -286,50 +286,6 @@
                         <depth>0</depth>
                         <hotspotX>0.498039216</hotspotX>
                         <hotspotY>0.5</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="btnEncuenta" uid="25">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>77.490036011</x>
-                        <y>205.222900391</y>
-                        <z>0</z>
-                        <width>82.595001221</width>
-                        <height>58.316001892</height>
-                        <depth>0</depth>
-                        <hotspotX>0.48780489</hotspotX>
-                        <hotspotY>0.517241359</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="btnCreditos" uid="26">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>77.489334106</x>
-                        <y>289.971038818</y>
-                        <z>0</z>
-                        <width>82.595001221</width>
-                        <height>58.316001892</height>
-                        <depth>0</depth>
-                        <hotspotX>0.495934963</hotspotX>
-                        <hotspotY>0.505747139</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
