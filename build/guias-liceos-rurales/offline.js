@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1587153193,
+	"version": 1617999559,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/gifpersprincipal-sheet1.png",
 		"images/gifpersprincipal-sheet2.png",
 		"images/gifventilador-sheet0.png",
+		"images/gifventilador-sheet1.png",
 		"images/gifpersojeacercade-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/sprite-sheet1.png",
@@ -29,6 +30,7 @@
 		"images/btncerrar-sheet0.png",
 		"images/gifguiadocente-sheet0.png",
 		"images/gifguiadocente-sheet1.png",
+		"images/gifguiaestudiante-sheet0.png",
 		"images/btnacercade-sheet0.png",
 		"images/btnacercade-sheet1.png",
 		"images/btnencuenta-sheet0.png",
