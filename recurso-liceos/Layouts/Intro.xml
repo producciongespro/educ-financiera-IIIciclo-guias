@@ -159,36 +159,14 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>80</x>
-                        <y>30</y>
+                        <x>119</x>
+                        <y>37</y>
                         <z>0</z>
-                        <width>1247.488037109</width>
-                        <height>660.776611328</height>
+                        <width>126</width>
+                        <height>50</height>
                         <depth>0</depth>
                         <hotspotX>0.474431813</hotspotX>
                         <hotspotY>0.512499988</hotspotY>
-                        <angle>0</angle>
-                        <opacity>1</opacity>
-                    </world>
-                </instance>
-                <instance type="logoUned" uid="49">
-                    <properties>
-                        <initial-visibility>Visible</initial-visibility>
-                        <initial-animation>Default</initial-animation>
-                        <initial-frame>0</initial-frame>
-                        <collisions>Enabled</collisions>
-                    </properties>
-                    <blend-mode>0</blend-mode>
-                    <effect-fallback>0</effect-fallback>
-                    <world>
-                        <x>129</x>
-                        <y>29</y>
-                        <z>0</z>
-                        <width>42.527999878</width>
-                        <height>42.331001282</height>
-                        <depth>0</depth>
-                        <hotspotX>0.493506491</hotspotX>
-                        <hotspotY>0.493506491</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
