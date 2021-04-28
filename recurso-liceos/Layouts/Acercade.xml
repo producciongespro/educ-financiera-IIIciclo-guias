@@ -111,7 +111,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>99</x>
-                        <y>189</y>
+                        <y>208</y>
                         <z>0</z>
                         <width>522</width>
                         <height>66</height>
@@ -124,7 +124,7 @@
                 </instance>
                 <instance type="Text" uid="25">
                     <properties>
-                        <text>Contenido auspiciado por: Bac Credomatic a cargo de la coordinación de Victor Oconitrillo </text>
+                        <text>Contenido auspiciado por: Bac Credomatic, Gerencia de Sostenibilidad, a cargo de la coordinación de Victor Oconitrillo. </text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Arial,-16</font>
                         <color>0,0,0</color>
@@ -141,7 +141,7 @@
                         <y>137</y>
                         <z>0</z>
                         <width>661</width>
-                        <height>25</height>
+                        <height>43</height>
                         <depth>0</depth>
                         <hotspotX>0</hotspotX>
                         <hotspotY>0</hotspotY>
@@ -165,7 +165,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>99</x>
-                        <y>234</y>
+                        <y>253</y>
                         <z>0</z>
                         <width>444</width>
                         <height>66</height>
@@ -178,7 +178,7 @@
                 </instance>
                 <instance type="Text" uid="51">
                     <properties>
-                        <text>Contenido avalado por la DDC: Ruth Aguilar Cabezas, bajo en convenio MEP-BAC</text>
+                        <text>Contenido avalado por la DDC: Ruth Aguilar Cabezas, bajo en convenio MEP-BAC Credomatic.</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Arial,-16</font>
                         <color>0,0,0</color>
@@ -192,7 +192,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>97</x>
-                        <y>163</y>
+                        <y>182</y>
                         <z>0</z>
                         <width>735</width>
                         <height>33</height>
@@ -219,7 +219,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>100</x>
-                        <y>279</y>
+                        <y>299</y>
                         <z>0</z>
                         <width>444</width>
                         <height>66</height>
@@ -245,8 +245,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>101</x>
-                        <y>297</y>
+                        <x>100</x>
+                        <y>322</y>
                         <z>0</z>
                         <width>444</width>
                         <height>66</height>
