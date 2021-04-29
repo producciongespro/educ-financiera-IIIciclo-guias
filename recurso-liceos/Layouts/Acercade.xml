@@ -111,7 +111,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>99</x>
-                        <y>208</y>
+                        <y>203</y>
                         <z>0</z>
                         <width>522</width>
                         <height>66</height>
@@ -124,7 +124,7 @@
                 </instance>
                 <instance type="Text" uid="25">
                     <properties>
-                        <text>Contenido auspiciado por: Bac Credomatic, Gerencia de Sostenibilidad, a cargo de la coordinación de Victor Oconitrillo. </text>
+                        <text>Contenido auspiciado por: BAC Credomatic, Gerencia de Sostenibilidad. </text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Arial,-16</font>
                         <color>0,0,0</color>
@@ -178,7 +178,7 @@
                 </instance>
                 <instance type="Text" uid="51">
                     <properties>
-                        <text>Contenido avalado por la DDC: Ruth Aguilar Cabezas, bajo en convenio MEP-BAC Credomatic.</text>
+                        <text>Contenido avalado por la DDC: Ruth Aguilar Cabezas, bajo el convenio MEP-BAC Credomatic.</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Arial,-16</font>
                         <color>0,0,0</color>
@@ -192,7 +192,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>97</x>
-                        <y>182</y>
+                        <y>162</y>
                         <z>0</z>
                         <width>735</width>
                         <height>33</height>
@@ -232,7 +232,7 @@
                 </instance>
                 <instance type="Text" uid="53">
                     <properties>
-                        <text>Contáctenos:  gespro@mep.go.cr</text>
+                        <text>Contacto:  gespro@mep.go.cr</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Arial,-16</font>
                         <color>0,0,0</color>
